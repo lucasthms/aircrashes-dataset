@@ -15165,29 +15165,6 @@
        "coordinates":  [ -74.00723,40.713047 ]
     },
     "properties": {
-    "id":660,
-    "annee":"01/01/2001",
-    "hour":9,
-    "country":"États-Unis",
-    "city":"New York",
-    "compagnie":"United Air Lines",
-    "lat_depart":42.358056,
-    "lon_depart":-71.063611,
-    "lat_arrivee":34.052238,
-    "lon_arrivee":-118.243344,
-    "plane_model":"Boeing B-767-222",
-    "passagers":65,
-    "dead":65,
-    "story":"The aircraft was hijacked shortly after it left Logan International Airport in Boston. The hijackers took control of the aircraft and deliberately crashed it into the south tower of the World Trade Center between the 78th and 84th floors at approximately 550 mph. After 56 minutes, the building collapsed. It was one of four planes that were hijacked the same day."
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -74.00723,40.713047 ]
-    },
-    "properties": {
     "id":661,
     "annee":"01/01/1954",
     "hour":14,
@@ -15363,6 +15340,29 @@
     "passagers":51,
     "dead":25,
     "story":"The aircraft was 1,000 ft past the ILS touchdown point and at an altitude of 25 ft. when a loss of visual reference caused the crew to abandon their approach. The landing gear was retracted, 20 degrees flaps selected and climb power applied. At 3,500 ft. from the threshold, in a 6 degree left bank and speed of 135 knots the No. 1 and 2 propellers struck the ground. The aircraft hit a mound of earth and broke up. Crew failed to follow approved procedures. Technique employed by the crew during abandonment of the approach under fog conditions that were not adequately reported."
+    }
+  },
+      {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00723,40.713047 ]
+    },
+    "properties": {
+    "id":660,
+    "annee":"01/01/2001",
+    "hour":9,
+    "country":"États-Unis",
+    "city":"New York",
+    "compagnie":"United Air Lines",
+    "lat_depart":42.358056,
+    "lon_depart":-71.063611,
+    "lat_arrivee":34.052238,
+    "lon_arrivee":-118.243344,
+    "plane_model":"Boeing B-767-222",
+    "passagers":65,
+    "dead":2764,
+    "story":"The aircraft was hijacked shortly after it left Logan International Airport in Boston. The hijackers took control of the aircraft and deliberately crashed it into both towers of the World Trade Center between the 78th and 84th floors at approximately 550 mph. After 56 minutes, the building collapsed. It was one of four planes that were hijacked the same day."
     }
   },
   {
